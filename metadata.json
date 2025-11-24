@@ -1,0 +1,5 @@
+{
+  "name": "TensorFlow.js Transformer",
+  "description": "A modular, browser-based Transformer implementation built from scratch using TensorFlow.js. Visualizes attention mechanisms and embeddings in a futuristic interface.",
+  "requestFramePermissions": []
+}
